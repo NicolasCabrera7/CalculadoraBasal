@@ -27,7 +27,7 @@ body {
 }
 
 #detalle{
-    background: #FF416C;
+    background: rgb(126, 126, 196);
     width: 50%;
     height: 100%;
     float: left;
@@ -35,7 +35,7 @@ body {
 }
 
 #error{
-    color: red;
+    color: rgb(236, 74, 74);
     font-weight: bold;
     display: none;
 }
@@ -62,8 +62,8 @@ button {
     margin: 10px;
 	padding: 12px 45px;
 	border-radius: 30px;
-	background-color: #FF416C;
-	border: 1px solid #FF416C;
+	background-color: #0caeb9;
+	border: 1px solid #f7f7f7;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	letter-spacing: 1px;
